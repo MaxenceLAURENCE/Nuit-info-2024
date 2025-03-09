@@ -2,7 +2,7 @@
 ## Présentation de la nuit de l'info 
 
 La nuit de l'info est un coucours national où durant toute une nuit, les participants doivent coder un site répondant à une problématique.  
-Cela se fait par groupe de 2 à illimité.  
+Cela se fait par groupe.  
 
 _Site officiel de la nuit de l'info : https://www.nuitdelinfo.com/_ 
 
